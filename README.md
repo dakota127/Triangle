@@ -10,6 +10,9 @@ Sharp distance sensor in base for additional pattern control.
 Interface Board uses my iSwitchPi - Intelligent Power Switch for Raspberry PI. One button power On/Off.
 Raspi box plays 15 different lightpatterns.
 
+A short video about my triangle is on YouTube
+https://www.youtube.com/watch?v=7J3GXnXpEjc
+
 Check out Micah’s instructions on how to build such a triangle
 http://www.instructables.com/id/Making-a-great-LED-triangle/
 
